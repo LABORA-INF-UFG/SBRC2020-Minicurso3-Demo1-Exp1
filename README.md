@@ -31,7 +31,7 @@ sudo apt -y install git
 
 Clone this repository:
 ```
-git clone https://github.com/LABORA-INF-UFG/NetSoft2020-Tutorial4-Demo1-Exp1.git
+git clone https://github.com/LABORA-INF-UFG/SBRC2020-Minicurso3-Demo1-Exp1.git
 ```
 
 Install Ansible:
@@ -41,7 +41,7 @@ sudo apt -y install ansible
 
 Run the following Ansible playbook (password for sudo is required):
 ```
-cd NetSoft2020-Tutorial4-Demo1-Exp1 && ansible-playbook -K Demo1Exp1.yml
+cd SBRC2020-Minicurso3-Demo1-Exp1 && ansible-playbook -K Demo1Exp1.yml
 ```
 Check if the containers are up:
 ```
